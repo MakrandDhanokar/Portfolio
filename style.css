@@ -2476,6 +2476,7 @@ select.mobile-device {
     color: white;
     font-weight: bold;
     margin-top: 7px;
+	font-family : ubuntu;
 }
 
 .project-info
