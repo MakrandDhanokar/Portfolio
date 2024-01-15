@@ -2485,3 +2485,28 @@ select.mobile-device {
     color: white;
     /* text-align: justify; */
 }
+
+.center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.center button
+{
+    border: none;
+    background-color: #E4572E;
+    font-family: ubuntu;
+    color: white;
+    padding: 3px 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
+    .center button:hover
+    {
+        background-color: white;
+        color: #000;
+    }
