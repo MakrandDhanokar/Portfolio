@@ -656,6 +656,7 @@ xclip
 	padding: 15px;
 	background: #ffffff;
 	margin-bottom: 30px;
+    height: 410px;
 }
 .ser-icon{
 	width: 90px;
@@ -2474,6 +2475,7 @@ select.mobile-device {
     text-align: center;
     color: white;
     font-weight: bold;
+    margin-top: 7px;
 }
 
 .project-info
